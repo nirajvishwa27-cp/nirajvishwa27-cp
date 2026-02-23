@@ -33,24 +33,31 @@ I bridge the gap between complex backend logic and seamless user experiences. I 
 
 ---
 
-### 📊 System Performance & Activity
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirajvishwa27-cp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajvishwa27-cp&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajvishwa27-cp&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirajvishwa27-cp&theme=tokyonight" width="100%" alt="Niraj Vishwakarma's GitHub Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirajvishwa27-cp&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajvishwa27-cp&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
 
----
+### 📩 Contact & Socials
+
+<p align="center">
+  <a href="mailto:nirajvishwa27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email nirajvishwa27@gmail.com" />
+  </a>
+  <a href="https://linkedin.com/in/niraj-vishwakarma-b47360293">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ### 📩 Let's Connect
 
