@@ -1,102 +1,72 @@
-<h1 align="center">Niraj Vishwakarma</h1>
-<h3 align="center">Software Engineer (Backend / Full-Stack)</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3982CE&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Niraj+Vishwakarma;Software+Engineer;Backend+Architect;Competitive+Programmer" alt="Typing SVG" />
+</div>
 
 <p align="center">
-Mumbai, India • MERN + PostgreSQL • 400+ DSA Problems Solved
+  <a href="https://linkedin.com/in/niraj-vishwakarma-b47360293"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nirajvishwa27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/nirajvishwa27-cp"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <b>📍 Mumbai, India | 🎓 B.E. in IT (2023-2027) | 🏆 400+ DSA Solved</b>
 </p>
 
 ---
 
-# 💫 About Me
+### 🚀 Engineering Philosophy
+I bridge the gap between complex backend logic and seamless user experiences. I specialize in **distributed systems**, **API performance**, and **secure architecture**.
 
-I am a backend-focused full-stack developer experienced in building scalable SaaS systems and production-ready applications.
-
-- 🔹 Strong in API Design & Role-Based Access Control (RBAC)
-- 🔹 Experienced in real-time systems using WebSockets
-- 🔹 Focused on performance optimization & modular architecture
-- 🔹 Strong foundation in Data Structures & Algorithms
+- 🔭 **Architecting:** [Daily-DSA](https://github.com/nirajvishwa27-cp/Daily-DSA), a code execution platform using **Docker** and **Judge0**.
+- ⚡ **Optimization:** Reduced API latency by **30%** through indexed queries and async workflows.
+- 🛡️ **Security:** Expert in implementing **RBAC** and stateless **JWT** authentication.
 
 ---
 
-## 🌐 Socials
+### 🛠️ The Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niraj-vishwakarma-b47360293)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirajvishwa27@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nirajvishwa27-cp)
-
----
-
-# 💻 Tech Stack
-
-### 🧠 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,py,cpp,c&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,postman&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,git&theme=dark" />
+</div>
 
 ---
 
-### ⚙ Backend Technologies
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+### 📊 System Performance & Activity
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirajvishwa27-cp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajvishwa27-cp&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirajvishwa27-cp&theme=tokyonight" width="100%" />
+</div>
 
 ---
 
-### 🎨 Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+### 🌟 Project Spotlights
+
+#### 🏗️ **Daily-DSA** | *Scaling Code Execution*
+> **Impact:** Handles multi-language code execution in isolated environments.
+> `Node.js` `PostgreSQL` `Docker` `Redis`
+- Improved system throughput by **30%** using asynchronous background workers.
+
+#### 🛡️ **Track-U** | *Enterprise Workflow Engine*
+> **Impact:** Secure academic tracking with real-time feedback.
+> `WebSockets` `RBAC` `MongoDB` `JWT`
+- Developed a robust **Role-Based Access Control** system for multi-tenant environments.
 
 ---
 
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🏆 Competitive Programming Stats
+- **LeetCode/GFG:** 400+ problems solved.
+- **GFG 160:** Official recognition in DSA contest series.
 
----
-
-### 🛠 Developer Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-# 🚀 Highlight Projects
-
-### 🧠 Daily-DSA — Coding Practice Platform
-Scalable LeetCode-style platform with modular Node.js + Prisma backend.
-- Integrated Judge0 for isolated multi-language execution
-- Reduced API latency by ~30% using indexed queries & async workflows
-- Dockerized backend system
-
-### 🏫 Track-U — Academic Workflow SaaS
-Role-based academic form tracking system.
-- Designed secure RBAC workflow engine
-- Built real-time notifications using WebSockets
-- Implemented CSV exports & schema optimization
-
-### 💬 Streamify — Social Learning Platform
-- Event-driven real-time communication
-- Stateless JWT authentication
-- Optimized frontend caching & state management
-
----
-
-# 📊 GitHub Stats
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirajvishwa27-cp&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajvishwa27-cp&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-⭐ Backend Engineer with Product Mindset ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3982CE&height=100&section=footer" />
 </p>
