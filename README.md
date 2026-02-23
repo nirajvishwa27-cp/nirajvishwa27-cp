@@ -34,14 +34,39 @@ I bridge the gap between complex backend logic and seamless user experiences. I 
 ---
 
 ### 📊 System Performance & Activity
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirajvishwa27-cp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajvishwa27-cp&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajvishwa27-cp&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirajvishwa27-cp&theme=tokyonight" width="100%" />
 </div>
+
+---
+
+### 📩 Let's Connect
+
+<p align="center">
+  <a href="mailto:nirajvishwa27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: nirajvishwa27@gmail.com" />
+  </a>
+  <a href="https://linkedin.com/in/niraj-vishwakarma-b47360293">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nirajvishwa27-cp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📫 <b>Direct Inquiry:</b> <a href="mailto:nirajvishwa27@gmail.com">nirajvishwa27@gmail.com</a>
+</p>
 
 ---
 
