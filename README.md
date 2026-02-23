@@ -46,18 +46,6 @@ I bridge the gap between complex backend logic and seamless user experiences. I 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajvishwa27-cp&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
----
-
-### 📩 Contact & Socials
-
-<p align="center">
-  <a href="mailto:nirajvishwa27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email nirajvishwa27@gmail.com" />
-  </a>
-  <a href="https://linkedin.com/in/niraj-vishwakarma-b47360293">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ### 📩 Let's Connect
 
